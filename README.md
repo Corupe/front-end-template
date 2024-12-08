@@ -14,5 +14,5 @@ This is a front-end template that provides a solid foundation for building moder
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/front-end-template.git
+   git clone https://github.com/Corupe/front-end-template.git
    ```
